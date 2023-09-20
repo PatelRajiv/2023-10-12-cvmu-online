@@ -277,7 +277,7 @@ Participation fee: Rs.1200 (Participants from India) and 20 USD (Other Participa
 <hr/>
 <p class="text-center">
 <a href="https://www.cvmu.edu.in"> 
-   <img src="https://raw.githubusercontent.com/evamarik/2019-11-frankfurt/gh-pages/img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100" />
+   <img src="cvmu_logo.svg" alt="The CVM University" height="100" />
  </a><br />
 
 {% comment%}
