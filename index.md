@@ -266,7 +266,7 @@ Edit the text to match who can attend the workshop. For instance:
 <p id="furtherInfo">
   <strong>Further information</strong>:
 	
-Participation fee: "Rs.1200" (Participants from India) and "20 USD" (Other Participants). 
+Participation fee: Rs.1200 (Participants from India) and 20 USD (Other Participants). 
   
 </p>
 <p id="organization">
