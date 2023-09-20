@@ -271,8 +271,8 @@ Participation fee: <strong>Rs.1200<strong> (Participants from India) and <strong
 <strong>Registration Link<strong>: <a href="https://forms.gle/5o3osorKyVuF97EB7">Click here for registration</a>.
   
 <p id="organization">
-  <strong>Organization:
-  	The workshop is organized by The Charutar Vidya Mandal (CVM) University, Vallabh Vidyanagar-388120, Gujarat, India
+  <strong>Organization<strong>:
+The workshop is organized by The Charutar Vidya Mandal (CVM) University, Vallabh Vidyanagar-388120, Gujarat, India
 </p>
 
 <hr/>
