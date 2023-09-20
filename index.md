@@ -275,6 +275,10 @@ Participation fee: Rs.1200 (Participants from India) and 20 USD (Other Participa
 </p>
 
 <hr/>
+<p class="text-center">
+<a href="https://www.vdb-online.org"> 
+   <img src="https://raw.githubusercontent.com/evamarik/2019-11-frankfurt/gh-pages/img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100" />
+ </a><br />
 
 {% comment%}
 CODE OF CONDUCT
