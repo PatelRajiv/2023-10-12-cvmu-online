@@ -22,8 +22,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 Participation fee: Rs.1200 (Participants from India and 20 USD (Other Participants). 
 
 </p>
-
-</p>
 <p id="organization">
   <strong>Organization:</strong>
 The workshop is organized by The Charutar Vidya Mandal (CVM) University, Vallabh Vidyanagar, Gujarat India
