@@ -267,7 +267,9 @@ Edit the text to match who can attend the workshop. For instance:
   <strong>Further information</strong>:
 	
 Participation fee: Rs.1200 (Participants from India) and 20 USD (Other Participants). 
-  
+<p id="registrationlink">
+  <strong>Registration Link:</strong>: "https://forms.gle/5o3osorKyVuF97EB7"
+
 </p>
 <p id="organization">
   <strong>Organization:</strong>
